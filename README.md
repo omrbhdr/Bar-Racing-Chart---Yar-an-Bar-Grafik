@@ -17,3 +17,6 @@
         
 ......................................................
 
+![image](https://github.com/omrbhdr/Bar-Racing-Chart---Yar-an-Bar-Grafik/assets/12261537/449b4488-ccaf-4fc9-b80d-0e22e24685cd)
+![image](https://github.com/omrbhdr/Bar-Racing-Chart---Yar-an-Bar-Grafik/assets/12261537/f0a4c284-54c5-4443-a15c-a5ee37d16282)
+

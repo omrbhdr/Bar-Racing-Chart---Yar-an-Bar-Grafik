@@ -1,4 +1,4 @@
-# Bar-Racing-Chart---Yar-an-Bar-Grafik
+# Bar-Racing-Chart---Yarisan-Bar-Grafik
 
 #!pip install ffmpeg 
 !conda install -c conda-forge ffmpeg
